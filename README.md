@@ -1,92 +1,133 @@
-<h1 align="center">Hi 👋, I'm Soham Lokhande</h1>
+<h1 align="center">Hey 👋 I'm Soham Lokhande</h1>
+<h3 align="center">Software Engineer • AI Founder • UC Irvine CS Alum</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/srlokhande27/">
-    <img src="https://img.shields.io/badge/LinkedIn-srlokhande27-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:lokhandesohamravindra@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-lokhandesohamravindra@gmail.com-red?style=flat-square&logo=gmail" alt="Email">
+    <img src="https://img.shields.io/badge/LinkedIn-srlokhande27-blue?logo=linkedin" />
   </a>
   <a href="https://github.com/lokhandesoham">
-    <img src="https://img.shields.io/badge/GitHub-lokhandesoham-black?style=flat-square&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/github/followers/lokhandesoham?label=Follow&style=social" />
   </a>
 </p>
 
-<h3 align="center">🚀 Software Engineer · AI Founder · Systems & Backend Enthusiast</h3>
+---
+
+## 🚀 About Me  
+I’m a Software Engineer + AI founder building **TakeBridge**, an autonomous computer-use agent powered by **multimodal vision**, **UI grounding**, and **API tool execution** to automate complex office workflows end-to-end.
+
+I love building **agent frameworks**, **backend systems**, **distributed architectures**, and anything that makes computers do more of the boring work so humans can focus on creativity & problem-solving.
 
 ---
 
-<img align="right" width="45%" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+# 🔥 Featured Projects  
 
-- 🔭 Currently building **TakeBridge** – AI agents that see your screen, use your tools, and automate real work.  
-- 🧠 Passionate about **AI agents, infrastructure, distributed systems, and backend engineering**.  
-- 👨‍💻 Past intern @ **Cognitus Consulting**: FastAPI orchestration, 15+ REST APIs, 60% faster workflows  
-- 🛰️ Research @ **UCI CubeSat**: NASA F’ framework + FreeRTOS + microservice flight architecture  
-- 🧬 Research @ **EdgeLake / Bioanalytics**: Decentralized DBs on Raspberry Pi clusters  
-- 🎓 Graduated **UC Irvine CS, GPA 3.94**, Cum Laude 🎓  
-- ✍️ Mentor, TA, and Reader for over 200+ students in Python, CS fundamentals, and systems design  
-- 🌐 I build full-stack, infra-heavy, multimodal, and AI-native platforms  
-- 🧠 Always learning — latest obsessions: **vision-language-action (VLA) agents, LangChain, Weaviate, planning loops**
+### 🧠 **Blog Posting Agent**  
+**Python | FastAPI | React | Weaviate | Playwright**  
+Agentic AI that curates + posts content across X, LinkedIn, and Reddit using GPT-based reasoning and semantic search.  
+:contentReference[oaicite:0]{index=0}
 
 ---
 
-### 💼 Projects & Impact
-
-- 🧠 **TakeBridge** – AI coworker that automates busywork by combining GUI control + tool usage  
-  ↳ Built with: `Python` · `FastAPI` · `Supabase` · `Docker` · `Next.js` · `LLMs` · `Ubuntu VM agents`  
-- 🎬 **Fablix Movie DB** – Netflix-style full-stack app (Java, Tomcat, MySQL, AWS, K8s, HTTPS)  
-  ↳ Handled 476+ req/min with master-slave replication + Kubernetes scaling  
-- 💼 **GenResume** – AI Resume Tailoring via RAG + GitHub repo analysis (85% match accuracy)  
-  ↳ Powered by `Python` · `LangChain` · `OpenAI` · `PostgreSQL` · `React`  
-- 🤖 **Blog-Posting Agent** – LLM-based cross-platform poster (X, LinkedIn, Reddit)  
-  ↳ Built with `Playwright`, `Weaviate`, `OAuth`, `Next.js`, `FastAPI`  
+### 🎬 **Fablix Movie Database Web App**  
+**Java | Tomcat | MySQL | AWS | Kubernetes**  
+Netflix-style platform built with Java Servlets & MySQL replication.  
+Deployed on Kubernetes, reached **476 req/min** throughput.  
+:contentReference[oaicite:1]{index=1}
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-#### 💻 Languages:
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white"/> 
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-
-#### 🌐 Web / Backend:
-<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/> 
-<img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask"/>
-<img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js"/> 
-<img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black"/> 
-<img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-
-#### 🗄️ Databases:
-<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/> 
-<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> 
-<img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/> 
-<img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white"/> 
-<img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=black"/> 
-<img src="https://img.shields.io/badge/-Weaviate-8E44AD?style=flat"/>
-
-#### 🧰 Tools / DevOps:
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/> 
-<img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/> 
-<img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws"/> 
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/> 
-<img src="https://img.shields.io/badge/-OAuth2-EE4C2C?style=flat"/> 
+### 📄 **GenResume (RAG Resume Tailor)**  
+**Python | React | PostgreSQL | OpenAI**  
+Semantic analysis engine that matches GitHub repos to job descriptions with **85% accuracy** using a custom RAG pipeline.  
+:contentReference[oaicite:2]{index=2}
 
 ---
 
-### 📈 GitHub Stats
+### 🔎 **ICS Search Engine**  
+**Python | Flask | IR Models | GPT**  
+High-performance search engine with sub-300ms latency + GPT-powered result summaries.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lokhandesoham&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokhandesoham&theme=tokyonight" width="48%" />
+---
+
+### 🛰️ **UCI CubeSat Architecture**  
+**NASA F’ | FreeRTOS | UML**  
+Designed system architecture and software requirements for a 2U satellite mission — includes power, avionics, comms.
+
+---
+
+### 🧪 **EdgeLake Distributed Database Deployment**  
+**Raspberry Pi Cluster | Docker | PostgreSQL**  
+Deployed decentralized DB nodes for biological IoT devices → **40% faster queries** and fault-tolerant edge compute.  
+:contentReference[oaicite:3]{index=3}
+
+---
+
+# 🛠️ Skills & Technologies  
+
+### **Languages**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
+</p>
+
+### **Backend & Infrastructure**
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge"/>
+</p>
+
+### **Frontend**
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge"/>
 </p>
 
 ---
 
-> 🧠 "Build real things. Automate boring work. Help people do what actually matters."
+# 💼 Work Experience  
+
+### 🟦 **Software Development Engineer Intern — Cognitus Consulting**  
+- Built a FastAPI orchestration engine integrating Salesforce, DocuSign, Outlook → workflow creation time ↓ **60%**.  
+- Developed **15+ async REST APIs** → backend performance ↑ **65%**.  
+- Implemented multilingual support for 5+ languages, improving maintainability by **75%**.  
+:contentReference[oaicite:4]{index=4}
 
 ---
 
-⭐️ Made with ❤️ by [@lokhandesoham](https://github.com/lokhandesoham)
+### 🟩 **Bioinformatics Research Assistant — UCI ICS**  
+- Deployed EdgeLake distributed DB on Raspberry Pi cluster → **40% faster queries**.  
+- Built fault-tolerant data pipelines for organoid-analysis devices using Docker + PostgreSQL.  
+:contentReference[oaicite:5]{index=5}
+
+---
+
+### 🛰️ **Systems Software Engineer — UCI CubeSat Program**  
+- Defined **20+ software requirements** and subsystem interfaces.  
+- Integrated NASA’s **F’** and FreeRTOS → subsystem modularity ↑ **25%**.  
+:contentReference[oaicite:6]{index=6}
+
+---
+
+### 🧑‍🏫 **Learning Assistant & Grader — UCI ICS**  
+- Mentored **200+ students** in Python + debugging.  
+- Reviewed 100+ assignments weekly with detailed feedback.  
+:contentReference[oaicite:7]{index=7}
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lokhandesoham&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+<h4 align="center">Let’s Build Something Cool 🚀</h4>
