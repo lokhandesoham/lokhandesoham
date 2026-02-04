@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm Soham Lokhande</h1>
-<h3 align="center">Software Engineer • AI Founder • UC Irvine CS Alum</h3>
+<h3 align="center">Software Engineer • AI Engineer • UC Irvine CS Alum</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/srlokhande27/">
@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 About Me  
-I’m a Software Engineer + AI founder building **TakeBridge**, an autonomous computer-use agent powered by **multimodal vision**, **UI grounding**, and **API tool execution** to automate complex office workflows end-to-end.
+I’m a Software Engineer + AI engineer at **TakeBridge**, an autonomous computer-use agent powered by **multimodal vision**, **UI grounding**, and **API tool execution** to automate complex office workflows end-to-end.
 
 I love building **agent frameworks**, **backend systems**, **distributed architectures**, and anything that makes computers do more of the boring work so humans can focus on creativity & problem-solving.
 
